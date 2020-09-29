@@ -1,7 +1,7 @@
-import conditional
+import conditional as example
 
-print(conditional('a'))
+print(example.conditional('a'))
 
-print(conditional(5))
+print(example.conditional(5))
 
-print(conditional('b'))
+print(example.conditional('b'))
