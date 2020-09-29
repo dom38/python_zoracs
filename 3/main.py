@@ -1,7 +1,7 @@
 import conditional as example
 
-print(example.conditional('a'))
+print(example.conditional(3))
 
-print(example.conditional(5))
+print(example.conditional(15))
 
-print(example.conditional('b'))
+print(example.conditional(10))
