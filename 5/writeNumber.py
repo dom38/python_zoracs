@@ -11,4 +11,6 @@ def writeNumber(number):
         9: "Nine"
     }
     numberWrittenOut = numberDict[number]
-    return "lambda"
+    return numberWrittenOut + "-" + str(number)
+
+print(writeNumber(5))
