@@ -30,3 +30,10 @@ print()
 # number can be divided by the second number, and false otherwise. 
 # eg. funcction_name(12, 6) returns true. funcction_name(12, 7) returns false. 
 # As a tip, google 'python modulo operator'
+
+
+
+# Go to xiv_api.py, and see if you can get it to print JUST the slogan from the 
+# get_fc_data function. For a second test, get it to print just the FC members 
+# in alphabetical order from the get_fc_members function
+# You WILL need to run `pip install requests` or `pip install -r requirements.txt`
